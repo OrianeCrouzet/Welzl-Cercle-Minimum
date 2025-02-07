@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "WELZL-CERCLE-MINIMUM",
+            "classPaths": [
+                "jar/TME1_cpa2024.jar"
+            ]
+        }
+    ]
+}
